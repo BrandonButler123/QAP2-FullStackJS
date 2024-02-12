@@ -1,0 +1,25 @@
+{
+  "name": "semester3-fullstack_js-qap2",
+  "version": "1.0.0",
+  "description": "QAP to show basic understanding of a multi-route server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandonButler123/Semester3-FullStack_JS-QAP2.git"
+  },
+  "author": "Brandon Butler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrandonButler123/Semester3-FullStack_JS-QAP2/issues"
+  },
+  "homepage": "https://github.com/BrandonButler123/Semester3-FullStack_JS-QAP2#readme",
+  "dependencies": {
+    "events": "^3.3.0",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
